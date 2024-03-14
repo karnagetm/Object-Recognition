@@ -1,0 +1,12 @@
+baby
+rabbit
+dog
+koala
+block-man
+robot
+tennis-ball
+dinosaur
+glass-paper-weight
+o2-ball
+
+Object recognition Vidoes are not included as they are 1gb plus (no space)

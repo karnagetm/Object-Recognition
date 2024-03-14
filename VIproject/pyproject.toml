@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "viproject"
+version = "0.1.0"
+description = "Visual intelligence kinect package"
+authors = ["karan patel"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.8.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
