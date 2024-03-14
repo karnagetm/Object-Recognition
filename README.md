@@ -11,7 +11,7 @@ This VB.NET project is designed to provide a visualisation toolkit for Kinect ca
 ## Setup and Installation
 1. Ensure you have the .NET Framework installed.
 2. Install the Kinect SDK from the official Microsoft website.
-3. Set up a new VB.NET project in your preferred IDE (e.g., Visual Studio).
+3. Set up a new VB.NET project in your preferred IDE (e.g., Visual Studio/Spyder via Anaconda).
 4. Add references to any required libraries or SDKs in your project.
 
 ## Building the Application
