@@ -17,6 +17,7 @@ This VB.NET project is designed to provide a visualisation toolkit for Kinect ca
 ## Building the Application
 - Use Visual Studio or your preferred VB.NET environment to build the application.
 - Configure the necessary project properties.
+- Inlcude your own videos to use 
 
 ## Usage
 - The application can be started from the Visual Studio IDE or by running the built executable.
