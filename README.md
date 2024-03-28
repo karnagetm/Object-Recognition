@@ -1,4 +1,4 @@
-# VIProject - Kinect Training Set Visualisation in VB.NET (Unfinished)
+# VIProject - Kinect Training Set Visualisation in VB.NET (No Longer Updated)
 
 ## Project Description
 This VB.NET project is designed to provide a visualisation toolkit for Kinect camera data. It is aimed at processing and displaying RGB, depth, and infrared (IR) video streams, suitable for research and development in the field of visual intelligence.
