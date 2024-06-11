@@ -1,5 +1,6 @@
 
 # (No Longer Updated)
+# kept as is
 
 ## VIProject - Kinect Training Set Visualisation in VB.NET 
 
